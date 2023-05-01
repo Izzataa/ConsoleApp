@@ -1,0 +1,17 @@
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Services.deps.json
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Services.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Services.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Core.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Data.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Data.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\bin\Debug\net6.0\ConsoleAppBook.Core.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.csproj.CopyComplete
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\refint\ConsoleAppBook.Services.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ConsoleAppBook.Services.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Services\obj\Debug\net6.0\ref\ConsoleAppBook.Services.dll

@@ -1,0 +1,15 @@
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\bin\Debug\net6.0\ConsoleAppBook.Data.deps.json
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\bin\Debug\net6.0\ConsoleAppBook.Data.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\bin\Debug\net6.0\ConsoleAppBook.Data.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\bin\Debug\net6.0\ConsoleAppBook.Core.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\bin\Debug\net6.0\ConsoleAppBook.Core.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.csproj.CopyComplete
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\refint\ConsoleAppBook.Data.dll
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ConsoleAppBook.Data.pdb
+C:\Users\Murad\Desktop\Tasks c#\ConsoleAppBook\ConsoleAppBook.Data\obj\Debug\net6.0\ref\ConsoleAppBook.Data.dll
